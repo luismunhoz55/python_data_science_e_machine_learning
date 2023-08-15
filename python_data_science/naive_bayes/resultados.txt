@@ -1,0 +1,3 @@
+Credit data: 93.8% de precisão (inconsistentes + faltantes + escalonamento)
+
+*-------------------------------------------------------------------------*

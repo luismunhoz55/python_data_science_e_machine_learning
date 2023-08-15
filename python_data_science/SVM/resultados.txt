@@ -1,0 +1,5 @@
+Credit data: 99.3% de precisão (inconsistentes, faltantes, escalonamento), (C = 2.0, kernel = 'rbf'), (test_size = 0.15)
+
+*-----------------------------------------------------------------------------------------------------------------------*
+
+Census: 85.07% de precisão (labelEncoder, oneHotEncoder, escalonamento), (C = 1.0, kernel = 'linear'), (test_size = 0.15)

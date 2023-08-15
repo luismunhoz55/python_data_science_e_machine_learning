@@ -1,0 +1,18 @@
+¡rvores de decis„o:
+Credit data: 98.2% de precis√£o (inconsistentes + faltantes + escalonamento)
+
+Census: 81% de precis„o (labelEncoder + oneHotEncoder + escalonamento)
+Census: 81% de precis„o (labelEncoder)
+Census: 81% de precis„o (labelEncoder + oneHotEncoder)
+Census: 81% de precis„o (labelEncoder + Escalonamento)
+
+*-------------------------------------------------------------------------*
+
+Random forest:
+
+Credit data: 98.4% de precis„o (inconsistentes + faltantes + escalonamento, n_estimators = 40)
+
+Census: 85.07% de precis„o (labelEncoder + oneHotEncoder + escalonamento, n_estimators = 100)
+Census: 85.17% de precis„o (labelEncoder, n_estimators = 100)
+Census: 85.09% de precis„o (labelEncoder + oneHotEncoder, n_estimators = 100)
+Census: 85.28% de precis„o (labelEncoder + escalonamento, n_estimators = 100)
